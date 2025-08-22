@@ -1,0 +1,10 @@
+{
+  "name": "esa-react-app",
+  "entry": "src/index.js",
+  "assets": {
+    "directory": "./build/"
+  },
+  "dev": {
+    "port": 18080
+  }
+}
